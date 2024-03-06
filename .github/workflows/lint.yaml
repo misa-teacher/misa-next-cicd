@@ -15,4 +15,4 @@ jobs:
           node-version: '20.x'
       - run: npm install
       - run: npm run lint
-      - run: npm run bulid
+      - run: npm run build
